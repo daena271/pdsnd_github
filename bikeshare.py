@@ -11,7 +11,7 @@ months_index = ['january', 'february', 'march', 'april', 'may', 'june','all']
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze. Note data is only available from January to June.
+    Asks user to specify a city, month, and day to analyze.
 
     Returns:
         (str) city - name of the city to analyze
