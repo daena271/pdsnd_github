@@ -10,7 +10,10 @@ Interactive exloration of bikeshare data using Python
 Takes user through bikeshare data from Chicago, New York City and Washington based on interactive prompts.
 
 ### Files used
+
 bikeshare.py
+
+Input files: chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 Thanks to Richard for taking us through Git and Juno and Juan for taking us through Python. Thanks also to the technical mentors Oscar Mauricio F and Ron T who answered my questions on Git submodules and Python's main function respectively.
